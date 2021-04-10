@@ -1,39 +1,21 @@
-1.Milyen típusú hálózat terjed ki kisebb távolságra és csatlakoztat nyomtatókat, egereket és billentyűzeteket egy meghatározott hoszthoz?#a) PAN #b) LAN #a #1szint
-2.Melyik Wi-Fi szabvány működik a 2,4GHz frekvenciatartományban?
-a) 802.11n 
-b) 802.11ac
+1.Milyen típusú hálózat terjed ki kisebb távolságra és csatlakoztat nyomtatókat, egereket és billentyűzeteket egy meghatározott hoszthoz? #a) PAN #b) LAN #a #1szint
+2.Melyik Wi-Fi szabvány működik a 2,4GHz frekvenciatartományban? #a) 802.11n #b) 802.11ac #1szint
 
-3.Melyik protokoll működik a TCP/IP modell szállítási rétegében?
-a) TCP 
-b) ICMP
+3.Melyik protokoll működik a TCP/IP modell szállítási rétegében? #a) TCP #b) ICMP #1szint
 
-4.Melyik biztonsági technológiát használják a hálózati forgalom passzív figyelésére az esetleges támadások felderítése céljából?
-a) IDS 
-b) tűzfal
+4.Melyik biztonsági technológiát használják a hálózati forgalom passzív figyelésére az esetleges támadások felderítése céljából? #a) IDS #b) tűzfal #1szint
 
-5.Melyik intelligens otthoni technológia követeli meg egy koordinátorként ismert eszköz használatát vezeték nélküli PAN létrehozásához?
-a) Zigbee 
-b) Z-Wave
+5.Melyik intelligens otthoni technológia követeli meg egy koordinátorként ismert eszköz használatát vezeték nélküli PAN létrehozásához? #a) Zigbee #b) Z-Wave #1szint
 
-6.Melyik hálózati eszköz generálja újra a jeleket a hálózat szegmentálása nélkül?
-a) modem 
-b) hub
+6.Melyik hálózati eszköz generálja újra a jeleket a hálózat szegmentálása nélkül? #a) modem #b) hub #1szint
 
-7.Melyik elterjedt átviteli közeget használja hálózatok esetében?
-a) nylon
-b) réz 
+7.Melyik elterjedt átviteli közeget használja hálózatok esetében? #a) nylon#b) réz #1szint
 
-8.Melyik technológia használja a meglévő elektromos vezetékeket az eszközök hálózatra történő csatlakoztatásához?
-a) IPS
-b) Ethernet over Power 
+8.Melyik technológia használja a meglévő elektromos vezetékeket az eszközök hálózatra történő csatlakoztatásához? #a) IPS #b) Ethernet over Power #1szint
 
-9.Melyik hálózati szolgáltatás rendeli automatikusan az IP-címeket a hálózat eszközeihez?
-a) DHCP 
-b) DNS
+9.Melyik hálózati szolgáltatás rendeli automatikusan az IP-címeket a hálózat eszközeihez? #a) DHCP #b) DNS #1szint
 
-10.Egy technikus csomagokat fogott el egy hálózaton, ami lassan működik az internet elérésekor. Melyik portszámot kell keresnie a technikusnak az elfogott csomagokban a HTTP-csomagok beazonosításához?
-a) 110
-b) 80 
+10.Egy technikus csomagokat fogott el egy hálózaton, ami lassan működik az internet elérésekor. Melyik portszámot kell keresnie a technikusnak az elfogott csomagokban a HTTP-csomagok beazonosításához? #a) 110 #b) 80 #1szint
 
 11.Mi jelzi a tápegység meghibásodását?
 a) A számítógép egy POST hibakódot jelez.
